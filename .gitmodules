@@ -1,0 +1,4 @@
+[submodule "riscv-gnu-toolchain"]
+	url = https://github.com/shepshook/riscv-gnu-toolchain
+[submodule "riscv-opcodes"]
+	url = https://github.com/shepshook/riscv-opcodes
